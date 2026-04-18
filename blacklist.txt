@@ -1,1 +1,50 @@
-123123122131
+
+
+Általános kérdések – FAQ
+Hogyan lehet sok pénzt keresni?
+A szerveren munkaszorzó rendszer működik.
+Discordon van egy külön szoba, ahol le van írva, hogy mely munkák adnak több pénzt és XP-t.
+Érdemes ezeket a munkákat végezni.
+
+Mennyibe kerül egy gyár?
+17.500 Ft (valós pénz)
+vagy IC-n belül játékosoktól is megvásárolható
+
+Mikor van vége a szállításnak?
+A szállítás akkor ér véget, amikor a rendvédelem kiírja.
+
+Hol lehet az érceket leadni?
+Az ércek leadási pontjait a térkép jelöli.
+
+Mennyibe kerül?
+Az árak a támogatás (Support) részben vannak feltüntetve.
+Ezeket összeadva kapod meg a teljes árat.
+
+Mikor lehet tölteni az illegál shopokat?
+Az illegál shopok töltése:
+17:00 – 19:00 között lehetséges
+
+Aukciósházban vettem valamit, de nem kaptam meg
+Ilyenkor:
+el kell fogadni az eladótól a vásárlást
+az eladó elutasíthatja, ebben az esetben visszakapod a pénzt
+
+Hol van whitelist / whitelist váró?
+A szerveren:
+Automatikus whitelist van, vagy
+ticketet kell nyitni, vagy
+váróban kell várni türelmesen, amíg segítenek
+
+Mikor vannak a restartok?
+Szerver restart időpontok:
+05:59
+12:00
+17:00
+
+Hol tudok méhészethez cuccot venni?
+A méhészethez szükséges dolgokat a térképen kijelölt helyen tudod megvásárolni.
+
+Mi a szerelési engedély parancsa?
+Parancs:
+/szerelesiengedely
+
